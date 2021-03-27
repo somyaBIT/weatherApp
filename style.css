@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("https://www.xmple.com/wallpaper/gradient-white-blue-linear-5120x2880-c2-ffffff-1e90ff-a-90-f-14.svg");
+    background-image: url("background.svg");
     height: 100vh;
     overflow:hidden;
     background-repeat: no-repeat;
@@ -68,9 +68,4 @@ body{
 .min-max, .weather{
     font-size: 12pt;
     font-weight: 600;
-}
-.img{
-   
-    
-    
 }
